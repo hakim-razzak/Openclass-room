@@ -28,7 +28,7 @@ df_train = df.values[0:8,]
 df_train = pd.DataFrame(df_train)
 df_train
 
-#%%
+
 def weighted_average(data, col_install, col_retention):
     i=0
     val_eff=[]
