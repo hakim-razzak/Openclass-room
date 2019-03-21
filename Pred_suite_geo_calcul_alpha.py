@@ -76,7 +76,6 @@ def graph(col_retention,row_pred,Un):
 
     return val_col
 
-#%%
     
 m = weighted_average(df_train, 4, 5)
 
